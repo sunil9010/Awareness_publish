@@ -27,7 +27,7 @@ const ArticlePage = () => {
       </p>
 
       <p className="mb-4">
-        <em>“I paid ₹10,000 for an MNC job opportunity. Eight months later, I got blocked,”</em> says a
+        <em>“I paid ₹150000 for an MNC job opportunity. Eight months later, I got blocked,”</em> says a
         candidate from Markondapadu. Reports also highlight that scam operators often reuse names,
         phone numbers, and set up temporary WhatsApp groups to create a sense of legitimacy.
       </p>
